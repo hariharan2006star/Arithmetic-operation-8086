@@ -23,7 +23,8 @@ To write and execute Assembly Language Programs to perform arithmetic operations
 <img width="707" height="1024" alt="image" src="https://github.com/user-attachments/assets/b5a7062d-e294-47cd-9683-a40de25e82de" />
 ## Program
 
-```asm
+```
+asm
 CODE SEGMENT
 ASSUME CS: CODE, DS: CODE
 ORG 1000H
@@ -70,7 +71,8 @@ END
 ## FLOWCHART
 <img width="578" height="797" alt="image" src="https://github.com/user-attachments/assets/564c3c7a-33ce-4a1c-8920-beb5c24b9b47" />
 ## Program
-```asm
+```
+asm
 CODE SEGMENT
 ASSUME CS: CODE, DS: CODE
 ORG 1000H
@@ -112,7 +114,9 @@ END
 ## FLOWCHART
 <img width="569" height="906" alt="image" src="https://github.com/user-attachments/assets/88be88ff-2896-4a88-b73d-84ccffd2fcf9" />
 ## Program
-```asm
+
+```
+asm
 CODE SEGMENT
 ASSUME CS: CODE, DS: CODE
 ORG 1000H
@@ -157,7 +161,8 @@ END
 
 ## Program
 
-```asm
+```
+asm
 CODE SEGMENT
 ASSUME CS: CODE, DS: CODE
 ORG 1000H
@@ -188,6 +193,7 @@ END
 ## OUTPUT FROM MASM SOFTWARE
 <img width="631" height="425" alt="Screenshot 2025-09-07 151350" src="https://github.com/user-attachments/assets/d0edcc1c-c9a5-408f-b982-7871bbc3e449" />
 <img width="635" height="420" alt="Screenshot 2025-09-07 151310" src="https://github.com/user-attachments/assets/7d8547dd-c87c-44ae-b8b4-dc17b9bd8291" />
+
 ## RESULT
 
 Thus, the Assembly Language Programs for 8086 to perform arithmetic operations (Addition, Subtraction, Multiplication, and Division) using both direct and indirect methods were successfully written and executed using MASM.
