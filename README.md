@@ -62,16 +62,13 @@ END
 1202 : 12   | 1206 : 00
 1203 : 34    |1207 : C4
 
-  
 #### Manual Calculations
-
 ![ADD](https://github.com/user-attachments/assets/ba563f0d-3152-43ff-86be-2f6dba6b2781)
 
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
 <img width="633" height="418" alt="Screenshot 2025-09-07 152242" src="https://github.com/user-attachments/assets/01b4bb3b-d9ea-4f4d-96b0-cdc221b80039" />
-
 <img width="636" height="427" alt="Screenshot 2025-09-07 152151" src="https://github.com/user-attachments/assets/d125bd51-3c8a-4874-b150-39d6c3231029" />
 
 ## 2. SUBTRACTION
@@ -108,8 +105,6 @@ INT 21H
 CODE ENDS
 END
 ```
-
-
 #### Output Table
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
@@ -118,20 +113,13 @@ END
 1201 : 34 | 1205 : 00
 1202 : 12 | 1206 : 00
 1203 : 34 | 1207 : C4
-
 #### Manual Calculations
-
 ![SUB](https://github.com/user-attachments/assets/9b1b50d0-0940-4400-9597-254099ff3cb0)
 
-
 ---
-
-
 ## OUTPUT SCREEN FROM MASM SOFTWARE
 <img width="633" height="425" alt="Screenshot 2025-09-07 150154" src="https://github.com/user-attachments/assets/82c99bf0-d251-4d71-9af1-5cb2539aa508" />
-
 <img width="641" height="429" alt="Screenshot 2025-09-07 144637" src="https://github.com/user-attachments/assets/4d640051-af78-4b15-8674-caa80e2d31c2" />
-
 
 ## 3. MULTIPLICATION
 
@@ -143,12 +131,7 @@ END
 4. Store result.
 
 ## FLOWCHART
-
 <img width="569" height="906" alt="image" src="https://github.com/user-attachments/assets/88be88ff-2896-4a88-b73d-84ccffd2fcf9" />
-
-
-
-
 #### Program
 
 ```asm
